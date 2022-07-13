@@ -18,7 +18,7 @@ We will wrap that prediction system in a frontend written in Python using [Gradi
 
 We will set up monitoring that alerts us to potential issues in our model using [Gantry](https://gantry.io/).
 
-# Click the badges below to access the lab notebooks on Colab
+# Click the badges below to access the lab notebooks on Colab 
 
 | Notebook    | Link                                                                                                                                                                              |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
